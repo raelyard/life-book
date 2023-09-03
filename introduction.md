@@ -38,19 +38,31 @@ It can also be defined as a more lating form of overall positive general well-be
 
 Thinking of a fleeting form of positive emotion makes for a relatively straightforward exercise in trying to think about how one would seek it. Having positive experiences would tend toward yeilding positive emotional states, and it's as simple as that. Liberty to seek positive experiences does indeed seem to be somethign to which all people are entitled, as long as such seeking is not done via coersion or aggression toward other people.
 
-Thinking about a longer-term form of satisfaction is no as straightforward in terms of how one would seek it. It could be as simple as thinking of it as a ledger where experiences add to a sum of fleeting moments of emotion and one is generally happy if there are more positive than negative entries in the column. Maybe there's soemthing to this, but it's certainly not that simple and this view takes a lot of control away from an individual.
+Thinking about a longer-term form of satisfaction is not as straightforward in terms of how one would seek it. It could be as simple as thinking of it as a ledger where experiences add to a sum of fleeting moments of emotion and one is generally happy if there are more positive than negative entries in the column. Maybe there's soemthing to this, but it's certainly not that simple and this view takes a lot of control away from an individual. Everyone has a degree of control over what happens in life, but it's only control to an extent. Many things happen outside one's control and considering happiness as both something of importance and a ledger of good and bad experiences makes it into a game of chance, a roll of the dice.
 
+If it is truly the nature of happiness that it's a leder, then we are indeed at the mercy of fate if it's happiness that we seek. If we want to take control of living a life worth living, therefore, we must either reject happiness as that we seek or view it as something other than just an aggregate sum of experiences.
 
+Or both. It could be that happiness is not really a worthy pursuit afterall, but that happiness appears as a byproduct of something else.
 
-Happiness, generally appears in the lives of humans when they have focus on something else. It appears in the form of a child or in the realization of applying means to reach ends. It materializes from relationships, from joyous occasions, from accomplishment. It can sometimes show up without a clear reason.
+Viewed this way, one can seek this something else, and in doing so, tip the balance of happiness favorably.
 
-Usually, it makes an appearance around something of significance in life.
+## What is Your Quest?
+
+Happiness, generally appears in the lives of humans when they have focus on something else. Happy people are generally not those explicitly looking for happiness, but those experiencing life.
+
+It appears in the form of a child or in the realization of applying means to reach ends. It materializes from relationships, from joyous occasions, from accomplishment. Happiness comes from life's joyfiul moments, big and small. It can sometimes show up without a clear reason.
+
+Usually, it makes an appearance around something of significance in life. That which is significant in any given life is as elusive to put a definition on as is happiness itself. In short significance is in the eye of the beholder.
+
+Significance appears in the early steps of an infant and other remarkable firsts. It can result from code that solves a problem to make software that works. It shows up in helping a stranger with a problem in a way you didn't have to.
+
+Significant moments of varying size can add up to connection with other people and ultimately to a meaningful existence. It's in this meaning that we may find happiness. Generally, that's there. If not, we can at least find rich rewards and it's from these rewards that life can become worthwhile.
 
 Happiness is often a byproduct of meaning.
 
 ## What Does it Mean to Find Meaning?
 
-## What Do You Want From Your Existence?
+To resolve that something has been concluded by saying that seeking meaning is what yields the rich rewards that lead to a life worth living would fall quite short of delivering something useful. We need to go further than that.
 
 
 
