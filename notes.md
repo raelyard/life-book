@@ -22,7 +22,7 @@ That's my direction.
 
 ## Book Approach
 
-The thought in my mind that has led to here is that what I should write is a broad philosophical work that starts with my axioms and builds from those as foundational, combining the `oughts` I hold to be axiomatic (and self-evident)
+The thought in my mind that has led to here is that what I should write is a broad philosophical work that starts with my axioms and builds from those as foundational, combining the `oughts` I hold to be axiomatic (and self-evident).
 
 It's pretentious to say I'm a philosopher. I am in a sense, but I'm nothing fo the sort. I could not tell you the first thing about Plato, Aristotle, or Socrates. I don't know the different between Nietzche and DeCartes. I have no schooling and haven't really done any reading.
 

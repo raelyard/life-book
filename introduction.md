@@ -64,7 +64,32 @@ Happiness is often a byproduct of meaning.
 
 To resolve that something has been concluded by saying that seeking meaning is what yields the rich rewards that lead to a life worth living would fall quite short of delivering something useful. We need to go further than that.
 
+Living with meaning is still far from something obvious. It's not close to an actionable plan. "Go forth and seek meaning" is an admonition that would leave many scratching their heads.
 
+Where then, do we start?
 
-## We Hold These Trughts to be Self-Evident
+## We Hold These Truths to be Self-Evident
 
+Scottish philopher David Hume articulated the principle known as "Hume's law", "Hume's Guilliotine", or the is-ought problem. Essentially, the idea is that one cannot conclude what ought to be from knowledge of what is.
+
+Philosophers and other logicians are skilled at starting from premises and following them to conclusions. If the conclusion follows from the premises, the logic of the argument is valid. Even if the premises are false, the argument still follows valid logic if the conclusion follows from the premises.
+
+Valid logic, though, is cold comfort when one arrives at incorrect or undesirable conclusions because of false premises.
+
+It's for this reason that one must start from a bedrock of excellent premises and follow valid logic to land on conclusions yielding the results one desires.
+
+Because one cannot draw conclusions about what ought to be from learning about what is true, further input is required to land on a worldview that informs on how one should behave to make the most of existence.
+
+The foundation on which a worldview can be built is constructed from values and axioms.
+
+An axiom is a something one accepts as being true, often something self-evidently true. An axiomatic truth is one that does not require demonstation, it is simply accepted to be true.
+
+## Aims of this book
+
+Given the need for an axiomatic foundation on which to build a worldview, the body of this work intends begin with a set of assertions I take to be self-evidently true. These will form a base of values and principles. These are primarily statements about preferring one way of being to another and claims of what constitutes something being good or bad.
+
+From there, those affirmations of the good will be combined with demonstrable truths about life, the universe, and everything to form a logical progression to a way of seeing the world.
+
+You'll be able to see my thinking on where I start, how I proceed, and how and where I land on the views I have about how one might best conduct their own behavior to maximize the experience of life.
+
+You'll then be able to reject it entirely, view the world completely as I do, or perhpas take away something (maybe even many somethings) you can use in the construction of your own take on how life is best lived.
