@@ -42,7 +42,13 @@ I have started with writing an [introduction](/introduction.md) about what I thi
 
 You have to start somewhere. I have done that.
 
-I believe next I'll just add some notes here on candidates for what are my `truths I hold to be self-evident`.
+Perhaps what is emerging now is a work with sections. The first section may be in regard to what are axioms both either self-evidently true or at least justifiable and worthwhile for inclusion in the foundation of a worldview. Then another section on conclusions that follow from those axiomitic truthes. Then one that brings those conclusions together into (what does it bring them together into? - maybe a coherent worldview? maybe something better/different than that) a coherent worldview.
+
+I have added some notes here on candidates for what are my `truths I hold to be self-evident`. This is the beginning of thinking about what might become the chapters of that first section. Still something i'm thinking about. Still a work in progress.
+
+## Plural of Axiom
+
+It seems that either axioms or axiomata are acceptable. Axiomata sounds pretentious and probably better to use axioms. Need to decide for certain.
 
 ## The Truth as I Perceive it
 
@@ -50,7 +56,7 @@ I almost called this section "my truth", but that sounds exactly like what folks
 
 Despite that I do not hold such a belief, there is an element of goodness in it. There's an extent to which I do buy into it.
 
-I hold that the truth is the truth, but I acknowledge that it can look different when viewed from a different perspective. This is like the story of the blind men and the elephant (a reference to that belongs in the book).
+I hold that the truth is the truth and there is no form of truth that is "my truth" or "your truth", but I acknowledge that truth can look different when viewed from a different perspective. This is like the story of the blind men and the elephant (a reference to that belongs in the book).
 
 Thus, my heading here of `the truth as I perceive it`. I am a seeker of truth. I have a bit of a glimpse into what it is in some respects, but it would be the height of hubris to say I really konw anything.
 
@@ -60,8 +66,32 @@ With this admission in mind, knowing that what I can claim to know is a fraction
 
 - Truth is preferable to falsehood.
 - Truth is usually a path to freedom.
-- My knowledge is always incomplete.
-- Aggressing against peaceful people is wrong.
-- Other people care as much about their families and concerns as I do about mine.
+- Human knowledge is always incomplete.
 - Property is a fundamental good.
+- Aggressing against peaceful people is wrong.
+- Aggressing against the property of peaceful people is wrong.
+- Other people care as much about their families and concerns as I do about mine.
 
+## Draft Outline
+
+Maybe this thing starts to fall out into something like this:
+
+Section I: We Hold These Truths to be Self-Evident
+Section II: It Follows That...
+Section III: Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
+
+With a little flesh on what might go within (chapters with some notes within some):
+
+1. We Hold These Truths to be Self-Evident
+    1. What is Truth?
+        - John 18:38
+    1. The Truth Will Set You Free
+        - John 8:32
+    1. Perception of Truth
+    1. Limits of Understanding
+    1. Axiomatic Foundations
+    1. (Perhaps a chapter for each of the foundations, justifying inclusion)
+1. It Follows That...
+    1. ???
+1. : Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
+    1. ???
