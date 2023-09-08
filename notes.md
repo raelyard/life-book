@@ -83,7 +83,7 @@ Section III: Finding Freedom in an Unfree World (with due respect and citation t
 With a little flesh on what might go within (chapters with some notes within some):
 
 1. We Hold These Truths to be Self-Evident
-    1. What is Truth?
+    1. [What is Truth?](/what-is-truth.md)
         - John 18:38
     1. The Truth Will Set You Free
         - John 8:32
@@ -95,3 +95,5 @@ With a little flesh on what might go within (chapters with some notes within som
     1. ???
 1. : Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
     1. ???
+
+Starting on writing (a) chapter(s). Linking in the outline when they exist.
