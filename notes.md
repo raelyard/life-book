@@ -68,8 +68,9 @@ With this admission in mind, knowing that what I can claim to know is a fraction
 - Truth is usually a path to freedom.
 - Human knowledge is always incomplete.
 - Property is a fundamental good.
-- Aggressing against peaceful people is wrong.
-- Aggressing against the property of peaceful people is wrong.
+- Causing harm is a fundamental bad.
+- Aggressing against peaceful people is harmful.
+- Aggressing against the property of peaceful people is harmful.
 - Other people care as much about their families and concerns as I do about mine.
 
 ## Draft Outline
@@ -77,7 +78,7 @@ With this admission in mind, knowing that what I can claim to know is a fraction
 Maybe this thing starts to fall out into something like this:
 
 Section I: We Hold These Truths to be Self-Evident
-Section II: It Follows That...
+Section II: From Self-Evident to that Which Follows
 Section III: Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
 
 With a little flesh on what might go within (chapters with some notes within some):
@@ -85,15 +86,15 @@ With a little flesh on what might go within (chapters with some notes within som
 1. We Hold These Truths to be Self-Evident
     1. [What is Truth?](/what-is-truth.md)
         - John 18:38
-    1. The Truth Will Set You Free
+    1. [The Truth Will Set You Free](/truth-free.md)
         - John 8:32
     1. Perception of Truth
     1. Limits of Understanding
     1. Axiomatic Foundations
     1. (Perhaps a chapter for each of the foundations, justifying inclusion)
-1. It Follows That...
+1. From Self-Evident to that Which Follows
     1. ???
 1. : Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
     1. ???
 
-Starting on writing (a) chapter(s). Linking in the outline when they exist.
+Starting on writing chapters. Linking in the outline when they exist.
