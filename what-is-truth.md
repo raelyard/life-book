@@ -49,4 +49,22 @@ Those who try to argue against absolute truth are doomed because of the inherent
 
 Generally, though, there are truths that are absolute. It's just hard to know what they are and when we think we know, we often find out our understanding is not as great as we thought.
 
-# TODO: wisdom of Socrates
+## What Does One Really Konw?
+
+There's a story goes that the Oracle of Delphi declares Socrates the wisest man in Athens, which took Socrates by surprise. Socrates declared ignorance and claimed that he knew nothing. He ultimately came to accept the declaration of the Oracle by concluding that nobody knows anything and he is wisest for recognizing this fact. His knowing his ignorance is what makes him wise.
+
+It's this humility, known as `The Wisdom of Socrates`, that is where any humble human who has thought at length must land.
+
+Of all the things there are that could be known about way the natural universe works, only a fraction of a fraction is known to humanity and any one person knows only a fraction of a fraction of that. There's more that could be known than one could even begin to approach in many multiples of lifetimes.
+
+Even when considering people known to be experts in their fields, the knowledge they have is a minute portion of what could be known. Further, no knowledge can ever really be certain.
+
+The scientific method is considered to be the gold standard for a way of determining what is true. Science is broadly considered to be the most certain of the ways of knowing. There are good reasons to think so.
+
+And yet science is an exercise in creating understandings that are always subject to further upgrades from later thought, observation, hypotheses, discovery, experimentation. Science yields understandings of natural phenomena that are the best understandings we have.
+
+And they are always far from perfect and far from complete.
+
+Science is never finished. Statements saying "the science is settled" reveal a significant misunderstanding of what science is.
+
+Acknowledging one's own ignorance and incompleteness is called epistemic humility, and it is perhaps the most important virtue one can possess.
