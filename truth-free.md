@@ -92,6 +92,44 @@ And that's another reason to be not so casual about what you claim to believe be
 
 You know, I learned when I was a kid, about 25 or so, a little older than a kid, that almost everything I said was one form of lie or another. I wasn't any worse, I would say, than the people I was associating with, or any better. And the lies were manifold, you know, they were attempts to win arguments for the sake of winning the argument. That might be one, (also) attempts to indicate my intellectual prowess when there were competitions of that sort, maybe just the sheer pleasure of engaging in an intellectual argument - my inability to distinguish between ideas that I had read and incorporated, but becauase I had read but hadn't yet realized I hadn't earned the right to use all of that.
 
-And, you know, I had this experience that lasted a long time - I would say it has never really gone away that I was thinking it was the awakening of my conscience, essentialy, this voice, for lack of a better word, made itself manifest inside me.
+And, you know, I had this experience that lasted a long time - I would say it has never really gone away that I was thinking it was the awakening of my conscience, essentialy, this voice, for lack of a better word, made itself manifest inside me. And it said every time I said something that wasn't true. And that's usually what it said: "That's not true. You don't believe that, or there was associated with it, and I don't think this is uncommon. You know, I asked my psychology classes for many years in a row if they had an experience, this experience that they had a voice in their head, let's say, it's a metaphor; or a feeling that communicated to them when they were about to do something wrong. And it was universally the case that people agreed with one of those statements or another.
+
+And the other thing I would ask is "Do you always listen to it?" And of course the answer to that was definitely "No."
+
+Well, you know, I learned that so much of what I was doing was false.
+
+And I think I learned this; see, there was a reason that this came to me so clearly. I was trying to understand why people did terrible things and I was really concentrating on the terrible, terrible things that people do. And I was interested in Auschwitz, for example. And not in, not as a political phenomenon, but as a psychological phenomenon, I was curious about how you could be an Auschwitz guard. And I wasn't really curious about how you could be one becauase, well, you could be that, of course. I was more curious about how I could be one, being such a good person as I thought I was.
+
+And, but I also knew that people, many people did many terrible things during the 20th century and the idea that I was somehow better than them or that I should assume a priori that I was better than them and that I wouldn't have made the same choices or worse had I been in the same situation.
+
+It was a very, very, very dangerous supposition. And that we really needed to understand why it happened and that perhaps we could go deep enough in that understanding, which is what I think happens when you go deep in understanding; so that we could stop it.
+
+Because if you understand the problem, maybe you can solve it. You know?
+
+And, at least in part, I came to believe that the problem was, as Solzhenitsyn said, that the problem is that the line between good and evil runs down every human heart.
+
+And I was reading Jung at the same time and, you know, he believed that the human soul was a tree whose roots grew all the way to hell and believed also that in the full investigation of the shadow, which was the dark side of the human psyche, was that it was bottomless, essentially. That it was like an experience of hell.
+
+And that also struck me as true.
+
+And that the way to stop those sorts of things from happening was to stop yourself from being the sort of person who would do it, who would even start to do it.
+
+Because the other thing when you learn when you learn about attrocities of that sort, for me it was a matter of understanding that the way to stop such things, too, from happening, the way to remember properly is to understand that you could do it. That you could do those terrible things because the people who did them were like you.
+
+And that the way out of that is to stop being like that.
+
+And the way you stop being like that is by ceasing to tell yourself lies that you don't believe in, and that, you know you shouldn't act out.
+
+And, you know, that's made a huge difference in my life, for better, for worse. I mean, it was a very uncanny experience, I would say, becauase it's very discombobulating to experience yourself as fragmented enough so that much of what you do and say is actually false.
+
+It's a lot of work to clean that up. A lot, but the consequences are, in principle, worthwhile.
+
+And so that was part of what drove me toward clinical psychology, say, and away from political science and law and from politics in general becausae I started to believe that, and I think this is the great Western idea that the proper route forward for the redemption of the individual and for making as a whole is as a consequence of the redemption of each individual. And I truly believe that.
+
+And I believe that happens as a consequence of adherence to the truth and courage in the face of being.
+
+That's rule 1, right? To stand up straight with you shoulders back is to take on the onslaught and to enter the contentious ring and to do your ..., to do more than you best, becauase your best isn't enough. Because your best isn't as good as you could be. You have to push yourslef past that.
 ```
+
+-- Jordan Peterson  https://www.youtube.com/watch?v=9Pd1Q5HVEqI
 

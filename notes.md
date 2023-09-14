@@ -64,6 +64,7 @@ Any claim I make about truth can only be made confidently to the extent that it'
 
 With this admission in mind, knowing that what I can claim to know is a fraction of a sliver of a grain of sand and knowing that what I think I know is colored by my perspective, I will start to attempt to articulate what I beliieve to be the fundamental truths that form the foundation of how I live my life.
 
+- Understanding a problem is the best way to find a solution.
 - Truth is preferable to falsehood.
 - Truth is usually a path to freedom.
 - Human knowledge is always incomplete.
