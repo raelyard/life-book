@@ -51,3 +51,47 @@ Living in the light of day, then is preferable to living in darkness. Living a l
 ## Truthfulness in Human Interactions
 
 "Lying makes a problem part of the future; truth makes a problem part of the past." - Rick Pitino
+
+
+```
+In order to find your way through all of that,
+
+you need to develop a relationship with something that's profound and you can have that capacity. And what could be more profound than the truth.
+
+And what would you rather have on your side?
+
+and to do more than your best, because your best isn't enough because your best isn't as good as you could be.
+
+You have to push yourself past that.
+
+And that's, as far as I can tell, where you find what you need in life, you find the meaning that sustains you in life. And you find the patterns of action that redeem the world.
+
+Neitzsche said that you could tell much about a man's character by how much truth he could tolerate, which is very interesting.
+
+You know, there's an idea, and in the great western tradition that the truth is the way and the path of life and that no one comes to the father except throught the truth. And I believe that to be the case becauase I don't think you can manifest who you are without the truth.
+
+And so I think it's literally and metaphorically true that the pathway to who you could be if you were completely who you were is through the truth.
+
+And so the truth does set you free but the problem is that it destroys everything that isn't worthy in you as it sets you free.
+
+And that's a process of burning and it's painful because you cling to what you shouldn't be, partly out of pride and partly out of ignorance and partly out of laziness.
+
+And so then you encounter something true and you all know this, you all know this perfectly well.
+
+becauase when was the last time you learned something important that wasn't blow of some sort? You know, it's often you look back at your life and you think "Oh God, I really learned something there. I wouldn't want to do that again, but it really changed my life."
+
+I mean, sometimes it can really destroy you, you know, an encounter with the truth and you never really recover.
+
+But now and then something comes along and straightens you out and a lot of you has to go.
+
+A lot of you has to burn away.
+
+You know? And I suppose, in some sense, the idea is that everything about you that isn't worthy is to be put into the flames.
+
+And that's another reason to be not so casual about what you claim to believe because it isn't something that you undertake without due caution.
+
+You know, I learned when I was a kid, about 25 or so, a little older than a kid, that almost everything I said was one form of lie or another. I wasn't any worse, I would say, than the people I was associating with, or any better. And the lies were manifold, you know, they were attempts to win arguments for the sake of winning the argument. That might be one, (also) attempts to indicate my intellectual prowess when there were competitions of that sort, maybe just the sheer pleasure of engaging in an intellectual argument - my inability to distinguish between ideas that I had read and incorporated, but becauase I had read but hadn't yet realized I hadn't earned the right to use all of that.
+
+And, you know, I had this experience that lasted a long time - I would say it has never really gone away that I was thinking it was the awakening of my conscience, essentialy, this voice, for lack of a better word, made itself manifest inside me.
+```
+
