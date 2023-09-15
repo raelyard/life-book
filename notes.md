@@ -64,22 +64,40 @@ Any claim I make about truth can only be made confidently to the extent that it'
 
 With this admission in mind, knowing that what I can claim to know is a fraction of a sliver of a grain of sand and knowing that what I think I know is colored by my perspective, I will start to attempt to articulate what I beliieve to be the fundamental truths that form the foundation of how I live my life.
 
-- Understanding a problem is the best way to find a solution.
+Some of these claims may require some justification. For others, I think it's enough to say that I hold them to be self-evident.
+
+This is still an exploration and an exercise in clarifying thougt.
+
+- Human knowledge is always incomplete.
+- Life is filled with problems.
+- Humans have desires.
+- Finding solutions to life's problems is desirable.
+- Any solution to a problem involves compromises among competing priorities.
+- Understanding a problem and the relevant priorities is the best way to assess which priorites to favor.
+- Understanding a problem and the relevant priorities is the best way to find a desirable solution.
+- Understanding is best promoted by honest inquiry into what is true.
+- Humans act - they use means to acheive ends. (with due respect and citation to Mises)
+- Humans action is a fundamental good.
+- Human action often involves the use of material resources.
+- Property is a fundamental good - exlusive control of the use of a given material resource by a person is beneficial to human action and well-being.
+- The desired ends of different humans can come into conflict with one another.
+- The menas of acheiving ends of different humans can come into conflict with one another.
+- Other people care as much about their means and ends and concerns as I do about mine.
+- Causing harm has a cost.
+
+I had initially thought these to be axiomatic truths, but I think they are going to be derived instead:
+
 - Truth is preferable to falsehood.
 - Truth is usually a path to freedom.
-- Human knowledge is always incomplete.
-- Property is a fundamental good.
-- Causing harm is a fundamental bad.
 - Aggressing against peaceful people is harmful.
 - Aggressing against the property of peaceful people is harmful.
-- Other people care as much about their families and concerns as I do about mine.
 
 ## Draft Outline
 
 Maybe this thing starts to fall out into something like this:
 
 Section I: We Hold These Truths to be Self-Evident
-Section II: From Self-Evident to that Which Follows
+Section II: It Follows That...
 Section III: Finding Freedom in an Unfree World (with due respect and citation to Harry Browne)
 
 With a little flesh on what might go within (chapters with some notes within some):
@@ -87,7 +105,7 @@ With a little flesh on what might go within (chapters with some notes within som
 1. We Hold These Truths to be Self-Evident
     1. [What is Truth?](/what-is-truth.md)
         - John 18:38
-    1. [The Truth Will Set You Free](/truth-free.md)
+    1. [The Truth Will Set You Free](/truth-free.md) 
         - John 8:32
     1. Perception of Truth
     1. Limits of Understanding
