@@ -8,6 +8,10 @@ What do you do with that, though?
 
 Does truth even matter at all? It may be possible that willful ignorance is better than pursuit of truth. If one is ignorant anyway, given the impossibility of complete understanding, perhaps it's best to stay ignorant of even those truths that are attainable, particularly the uncomfortable ones.
 
+There are two clear approaches to determining is truth is really preferable to to falsehood. One is a utilitarian approach and the other is to consider the alternative.
+
+## Alternative to Valuing Truth
+
 To respond to the question of the utility of truth, one need only look at the alternative.
 
 To live in falsehood seems an endless path to ruin. There are popular songs expressing a desire not to know the truth about an unfaithful lover. A song like that is as sad as anything I can imagine - an expression of a person so unwilling to know the truth as to choose to live in the darkness of not knowing something of the utmost importance; something with the power to devastate.
@@ -34,7 +38,13 @@ It's heart-breaking. It's sould-crushing. One cannot listen to that song without
 
 It can be hard to face the truth. The truth has the power to destroy. What it destroys, though, are the parts of us we don't want. It tears us down to create a stronger and better form with what remains. Believing falsehoods yields a house of cards, destined to collapse. Believing in truth offers the possibility of a light at the end of the tunnel.
 
-It's in facing the truth where meaning is to be found.
+## Utility of Truth
+
+If you are trying to use means to attain an end, you are best served to understand exactly what end it is you are seeking as well as the consequences of the means you employ. Understanding is a key element in making optimal use of means and acheiving ends. The answer to the question of whether truth or falsehood serves to enhance understanding is self-evident. Clearly, it's better to seek truth in order to gain understanding and it's better to have understanding to have positive impact in your actions.
+
+Therefore, from a utilitarian perspective, truth is clearly favorable to falsehood. A person who seeks and finds truth will be in a better position to act than one who favors falsehood.
+
+(cite Peterson in some way and develop this idea) Further, it's in facing the truth where meaning is to be found.
 
 ## Life More Abundant
 

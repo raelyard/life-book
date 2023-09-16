@@ -72,7 +72,7 @@ This is still an exploration and an exercise in clarifying thougt.
 - Life is filled with problems.
 - Humans have desires.
 - Finding solutions to life's problems is desirable.
-- Any solution to a problem involves compromises among competing priorities.
+- Any solution to a problem involves compromises among competing priorities and concerns.
 - Understanding a problem and the relevant priorities is the best way to assess which priorites to favor.
 - Understanding a problem and the relevant priorities is the best way to find a desirable solution.
 - Understanding is best promoted by honest inquiry into what is true.
