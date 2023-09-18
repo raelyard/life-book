@@ -44,7 +44,7 @@ If you are trying to use means to attain an end, you are best served to understa
 
 Therefore, from a utilitarian perspective, truth is clearly favorable to falsehood. A person who seeks and finds truth will be in a better position to act than one who favors falsehood.
 
-(cite Peterson in some way and develop this idea) Further, it's in facing the truth where meaning is to be found.
+(TODO: cite Peterson in some way and develop this idea) Further, it's in facing the truth where meaning is to be found.
 
 ## Life More Abundant
 
@@ -54,9 +54,35 @@ Living in the light of day, then is preferable to living in darkness. Living a l
 
 -- John 10:1-10 (NIV)
 
+A life of abundance can mean a life filled with material gain. That's probably the first thing one thinks of when hearing the term. And that's right - abundance can and does refer to acquiring possessions. Abundance can mean having more than one could ever use. Really, it just means having more than enough. It doesn't have to be more by a wide margin. It also doesn't necessarily refer to material wealth. It certainly can, but there are many types of rewards one can acquire and acheive. Some of them involve material gain, others don't.
+
+Abundant life is something that can have unique meaning to each and every person.
+
+When the Gospel promises life and having it more abundantly, the meaning of abundance is open to the interpretation of the individual. You can and should seek that which enhances your life and eschew that which drains it.
+
+Given that truth leads to understanding and that understanding is superior to any gained by falsehood and understanding yields superior results in using means to attain ends, abundant life is best served by living in and for truth and seeking truth.
+
+The Gospel goes even further regarding truth, when John has Jesus offering liberation throught truth.
+
 > "Then you will know the truth, and the truth will set you free.”
 
 -- John 18:36-38 (NIV)
+
+It fits the intuition of most people that a life of liberty is one of more abundance than one lacking in freedom. It could be taken as axiomatic that freedom is better than any alternative.
+
+It's via freedom that one is able to choose what to read and otherwise consume and via freedom that huamns can act by choosing their prefered means to attampt to acheive their preferred ends.
+
+Freedom is desiarable and better than any alternative. Truth leads to, or at least points toward, liberty.
+
+This is important.
+
+## The Ways Truth Makes for Freedom
+
+It's interesting that "the truth shall set you free" has a Biblical origin, but it's also a motto on the seal of many secular institutions, including those focused on education and government. It's not really a violation of separation of church and state, but rather a testament to the universal appeal of the foundational truth contained in what appears to be a simple statement.
+
+It's not necessarily obvious, though, that the truth is the path to freedom. It's intuitive, but not obvious that consuming truth is liberating. What about telling the truth, though?
+
+TODO: more here
 
 ## Truthfulness in Human Interactions
 

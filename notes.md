@@ -89,6 +89,7 @@ I had initially thought these to be axiomatic truths, but I think they are going
 
 - Truth is preferable to falsehood.
 - Truth is usually a path to freedom.
+- Freedom is better than any alternative.
 - Aggressing against peaceful people is harmful.
 - Aggressing against the property of peaceful people is harmful.
 
