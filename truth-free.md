@@ -36,7 +36,17 @@ Oh, baby, I don't wanna know
 
 It's heart-breaking. It's sould-crushing. One cannot listen to that song without feeling overwhelmed with a spirit of hopeless woe. Willful ignorance can't be the way to maximize human flourishing and optimize for an existence worthy being called a life.
 
-It can be hard to face the truth. The truth has the power to destroy. What it destroys, though, are the parts of us we don't want. It tears us down to create a stronger and better form with what remains. Believing falsehoods yields a house of cards, destined to collapse. Believing in truth offers the possibility of a light at the end of the tunnel.
+It can be hard to face the truth. The truth has the power to destroy. It's understandable to hesitate to face the truth of that which is unpleasant. Realizing the hard truth that reality may not be what we thought it was is disorienting and can be devastating. It's natural to move away from something so terrifying.
+
+What it destroys, though, are the parts of us we don't want. It tears us down to create a stronger and better form with what remains. Believing falsehoods yields a house of cards, destined to collapse. Believing in truth offers the possibility of a light at the end of the tunnel.
+
+The childrens' book, *There's No Such Thing as a Dragon* by Jack Kent is perhaps the best known articulation of the supremacy of embracing truth in one's life. In the book, a dragon ignored becomes a bigger dragon such that a problem of an uncomfortable truth becomes a bigger problem by being ignored. The longer a problem is ignored, the larger it becomes.
+
+> "Lying makes a problem part of the future; truth makes a problem part of the past." - Rick Pitino
+
+Legendary basketball coach, Rick Pitino was talking about telling the truth to other people when he talked about making a problem a part of the past or the future with truth or falsehood, but the phenomenon he astutely points out applies to embracing truth in one's own perception as well.
+
+However difficult it may be to embrace truth, embracing falsehood is almost universally worse.
 
 ## Utility of Truth
 
@@ -85,9 +95,6 @@ It's not necessarily obvious, though, that the truth is the path to freedom. It'
 TODO: more here
 
 ## Truthfulness in Human Interactions
-
-"Lying makes a problem part of the future; truth makes a problem part of the past." - Rick Pitino
-
 
 ```
 In order to find your way through all of that,
