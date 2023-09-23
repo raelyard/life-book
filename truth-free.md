@@ -49,17 +49,13 @@ I don't need your reasons
 Don't tell me 'cause it hurts
 ```
 
--- Song written by Gwen Stefani, Eric Stefani
+-- Song written by Gwen Stefani and Eric Stefani
 
 It can be hard to face the truth. The truth has the power to destroy. It's understandable to hesitate to face the truth of that which is unpleasant. Realizing the hard truth that reality may not be what we thought it was is disorienting and can be devastating. It's natural to move away from something so terrifying.
 
 What it destroys, though, are the parts of us we don't want. It tears us down to create a stronger and better form with what remains. Believing falsehoods yields a house of cards, destined to collapse. Believing in truth offers the possibility of a light at the end of the tunnel.
 
 The childrens' book, *There's No Such Thing as a Dragon* by Jack Kent is perhaps the best known articulation of the supremacy of embracing truth in one's life. In the book, a dragon ignored becomes a bigger dragon such that a problem of an uncomfortable truth becomes a bigger problem by being ignored. The longer a problem is ignored, the larger it becomes.
-
-> "Lying makes a problem part of the future; truth makes a problem part of the past." - Rick Pitino
-
-Legendary basketball coach, Rick Pitino was talking about telling the truth to other people when he talked about making a problem a part of the past or the future with truth or falsehood, but the phenomenon he astutely points out applies to embracing truth in one's own perception as well.
 
 However difficult it may be to embrace truth, embracing falsehood is almost universally worse.
 
@@ -69,7 +65,7 @@ If you are trying to use means to attain an end, you are best served to understa
 
 Therefore, from a utilitarian perspective, truth is clearly favorable to falsehood. A person who seeks and finds truth will be in a better position to act than one who favors falsehood.
 
-(TODO: cite Peterson in some way and develop this idea) Further, it's in facing the truth where meaning is to be found.
+Seeking understanding yields better outcomes. Seeking truth yields better understanding. For a human who wants to use means to attain ends, truth is preferable to falsehood. There is no other conclusion for maximizes the life utilty of humanity and the smooth execution of interpersonal interaction.
 
 ## Life More Abundant
 
@@ -107,7 +103,19 @@ It's interesting that "the truth shall set you free" has a Biblical origin, but 
 
 It's not necessarily obvious, though, that the truth is the path to freedom. It's intuitive, but not obvious that consuming truth is liberating. What about telling the truth, though?
 
-TODO: more here
+Consider, for a moment, the proposition that telling lies leads to freedom. It's not hard to think of scenarios in which a lie to lead to material gain. Perhaps this means dishonesty is a path to liberation from the need to work for gain fulfill the needs of life.
+
+There's an extent to which lying does have the potential to yield gain. It always comes with a cost, though. 
+
+> "Lying makes a problem part of the future; truth makes a problem part of the past." - Rick Pitino
+
+Legendary basketball coach, Rick Pitino, astutely pointed out the burden that comes with falsehood. Telling the truth does not require maintenacne. Having said what is true stands on its own. One does not have to remember the truth told so as not to constridict it when telling future truths. Truth does not contradict truth.
+
+Lying always runs the risk of future discovery. Gains from defrauding others are gains that must be guarded. Perhaps this is why the dragons of legend must be so powerful and vigilant in protecting their plunder from those who would take it. Ill-gotten gains are never as secure as those attained honestly.
+
+Lies come with the burden of maintining the lie. This burden can be viewed as a form of slavery. Even if that's going too far (I don't think it is), it's certainly something in a direction away from liberty.
+
+TODO: look up source for "Oh what a tangled web we weave..."
 
 ## Truthfulness in Human Interactions
 
