@@ -6,7 +6,7 @@ In this work, I want to drive toward outlining a way of arriving at a way of vie
 
 I want to outline the way I view the world and what matters and what does not.
 
-This is not an appeal to get readers to think what I think, but an effort at sharing my thought process in the hopes that readers can examine their own ways of thinking and move toward a place of having worldviews that are consious and deliberately chosen. I also want to make my thinking explict so I'll understand it better and, hopefully, I'll get some resistance from readers will shed some light on places my thinking needs updating or changing.
+This is not an appeal to get readers to think what I think, but an effort at sharing my thought process in the hopes that readers can examine their own ways of thinking and move toward a place of having worldviews that are conscious and deliberately chosen. I also want to make my thinking explict so I'll understand it better and, hopefully, I'll get some resistance from readers will shed some light on places my thinking needs updating or changing.
 
 I am living a life with many blessings and I'm glad for it. I think I've realized some truths that make for a pretty decent way of approaching life. I think I have something to share, not only about how to live, but about how to land on a view on how to live.
 
@@ -28,7 +28,7 @@ That's my direction.
 
 The thought in my mind that has led to here is that what I should write is a broad philosophical work that starts with my axioms and builds from those as foundational, combining the `oughts` I hold to be axiomatic (and self-evident).
 
-It's pretentious to say I'm a philosopher. I am in a sense, but I'm nothing fo the sort. I could not tell you the first thing about Plato, Aristotle, or Socrates. I don't know the different between Nietzche and DeCartes. I have no schooling and haven't really done any reading.
+It's pretentious to say I'm a philosopher. I am in a sense, but I'm nothing fo the sort. I could not tell you the first thing about Plato, Aristotle, or Socrates. I don't know the difference between Nietzche and DeCartes. I have no schooling and haven't really done any reading.
 
 Maybe I need to describe and define what it is that I'm setting out to do. Maybe it is called philosophy or maybe I need another word. Maybe I need to call it something less pretentious.
 
@@ -42,13 +42,9 @@ I have started with writing an [introduction](/introduction.md) about what I thi
 
 You have to start somewhere. I have done that.
 
-Perhaps what is emerging now is a work with sections. The first section may be in regard to what are axioms both either self-evidently true or at least justifiable and worthwhile for inclusion in the foundation of a worldview. Then another section on conclusions that follow from those axiomitic truthes. Then one that brings those conclusions together into (what does it bring them together into? - maybe a coherent worldview? maybe something better/different than that) a coherent worldview.
+Perhaps what is emerging now is a work with sections. The first section may be in regard to what are axioms both either self-evidently true or at least justifiable and worthwhile for inclusion in the foundation of a worldview. Then another section on conclusions that follow from those axiomatic truths. Then one that brings those conclusions together into (what does it bring them together into? - maybe a coherent worldview? maybe something better/different than that) a coherent worldview.
 
 I have added some notes here on candidates for what are my `truths I hold to be self-evident`. This is the beginning of thinking about what might become the chapters of that first section. Still something i'm thinking about. Still a work in progress.
-
-## Plural of Axiom
-
-It seems that either axioms or axiomata are acceptable. Axiomata sounds pretentious and probably better to use axioms. Need to decide for certain.
 
 ## The Truth as I Perceive it
 
@@ -68,14 +64,14 @@ Some of these claims may require some justification. For others, I think it's en
 
 This is still an exploration and an exercise in clarifying thougt.
 
-- Human knowledge is always incomplete.
-- Life is filled with problems.
 - Humans have desires.
+- Life is filled with problems.
 - Finding solutions to life's problems is desirable.
 - Any solution to a problem involves compromises among competing priorities and concerns.
 - Understanding a problem and the relevant priorities is the best way to assess which priorites to favor.
 - Understanding a problem and the relevant priorities is the best way to find a desirable solution.
 - Understanding is best promoted by honest inquiry into what is true.
+- Human knowledge is always incomplete.
 - Humans act - they use means to acheive ends. (with due respect and citation to Mises)
 - Humans action is a fundamental good.
 - Human action often involves the use of material resources.
