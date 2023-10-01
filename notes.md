@@ -6,7 +6,7 @@ In this work, I want to drive toward outlining a way of arriving at a way of vie
 
 I want to outline the way I view the world and what matters and what does not.
 
-This is not an appeal to get readers to think what I think, but an effort at sharing my thought process in the hopes that readers can examine their own ways of thinking and move toward a place of having worldviews that are conscious and deliberately chosen. I also want to make my thinking explict so I'll understand it better and, hopefully, I'll get some resistance from readers will shed some light on places my thinking needs updating or changing.
+This is not an appeal to get readers to think what I think, but an effort at sharing my thought process in the hopes that readers can examine their own ways of thinking and move toward a place of having worldviews that are consciously and deliberately chosen. I also want to make my thinking explict so I'll understand it better and, hopefully, I'll get some resistance from readers will shed some light on places my thinking needs updating or changing.
 
 I am living a life with many blessings and I'm glad for it. I think I've realized some truths that make for a pretty decent way of approaching life. I think I have something to share, not only about how to live, but about how to land on a view on how to live.
 
@@ -14,7 +14,13 @@ I want to land on what truths I hold to be axiomatic and work from those truths 
 
 ## Rich Reward
 
-A life worth living is not just one with material wealth, though it likely does include that.
+A life worth living is not just one with material wealth, though it likely does include that. In fact, it's likely that it must include that. The best things in life are free, but fully enjoying those free best things can be unlocked to the fullest with material abundance. Material wealth does not necessarily do this unlocking, though. It can enable it. It can give it a fertile ground to grow.
+
+This depends, though, on how that wealth is acheived. When wealth becomes the focus of life, life can be forgotten. Living for wealth instead of acquiring wealth to support life is a barrier to enjoying what makes life worth living rather than being a path toward it.
+
+It's those best things in life, those human experiences inherent in human interaction among family and the most important relactionships that are the rich reward we all seek and need.
+
+Earning a living in support of a family is a way to rich reward. Caring for children is an even better one.
 
 What are the outcomes that constitute a life worth living?
 
@@ -32,7 +38,7 @@ It's pretentious to say I'm a philosopher. I am in a sense, but I'm nothing fo t
 
 Maybe I need to describe and define what it is that I'm setting out to do. Maybe it is called philosophy or maybe I need another word. Maybe I need to call it something less pretentious.
 
-I suppose it's really `self-help`. That sounds so cheap and demeaning. Maybe it applies.
+I suppose it's really `self-help`. That sounds so cheap and demeaning. Maybe it applies. Maybe it's cheap. Maybe not. Maybe it's demeaning. Maybe it's not.
 
 I'm uncertain exactly what it is I'm writing.
 

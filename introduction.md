@@ -4,17 +4,23 @@
 
 It's hard to know what one should seek in life. To many, success is measured in wealth, status, position, and other such markers. To others, rewards come from family and other relationships. Others want to make an impact on future generations via work that leaves a legacy.
 
-It's not common to stop and think about how one might decide among these differing views of success and what constitutes a life worth living. Generally, it seems most folks go to work for much of the day on most days and recover overnight to do it again. They find some time for recreation, and find themselves happy if their lucky.
+It's not common to stop and think about how one might decide among these differing views of success and what constitutes a life worth living. Generally, it seems most folks go to work for much of the day on most days and recover overnight to do it again. They find some time for recreation, and find themselves happy if they're lucky.
 
-The words of the preamble to the Declaration of Independence of the United States of America, in outlining self-evident truths, articulate the "pursuit of happiness" as one of the inalienable rights. This is a deviation from the Lockean formulation of "life, liberty, and property."
+The words of the preamble to the Declaration of Independence of the United States of America, in outlining self-evident truths, articulate the "pursuit of happiness" as one of the inalienable rights. It's interesting to think about the fact that landing on the formulation most Americans can recite without thinking was not clearly where it was headed.
 
-This inclusion, this departure, raises questions. Is happiness worth pursuing? Is it an end one should strive to attain? What is happiness, anyway?
+> We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
+
+The "pursuit of happiness" deviation from the Lockean formulation of "life, liberty, and property" is interesting. Why was property excluded and why was this pursuit the replacement? Jefferson also originally wrote not that the truths articulated were "self-evident", but "sacred & undeniable."
+
+"Self-evident" and "undeniable" don't seem remarkably different. It's not obvious why "sacred" was excluded, though from a modern secular-state viewpoint, it's probably welcome to many that such a nod to faith is not there.
+
+Replacing property with pursuit, though? This departure raises questions. Is happiness worth pursuing? Is it an end one should strive to attain? What is happiness, anyway?
 
 Ultimately, living a human life is something that doesn't come with a user's manual desribing what one should do to make the most of it. We're each left to our own devices to try to decide what constitutes living well.
 
-There are many who would way that society and culture lock us into expectations. They might say that wealth and status indicate success in our societies. Maybe they say offer instructions on how to acheive these things or maybe they assert that these expectations should be rejected.
+There are many who would say that society and culture lock us into expectations. They might say that wealth and status indicate success in our societies. Maybe they say offer instructions on how to acheive these things or maybe they assert that these expectations should be rejected. I've even heard it said that one should not necessarily seek success. This view holds that success is defined in money and status terms and that these are not worth seeking. It overlooks that success is subjective term and we are all free to define for ourselves what it means to be successful.
 
-The simple fact of the matter, though, is that regardless of what someone else expects of you, whether someone specific like a parent or some facelss "society" or something of the sort, that may or may not expect what you think, your path through life is up to you.
+The simple fact of the matter is that regardless of what someone else expects of you, whether someone specific like a parent or some facelss "society" or something of the sort, that may or may not expect what you think, your path through life is up to you.
 
 What then, will you use as your guide to living a life worth the name?
 
