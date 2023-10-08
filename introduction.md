@@ -14,13 +14,15 @@ The "pursuit of happiness" deviation from the Lockean formulation of "life, libe
 
 "Self-evident" and "undeniable" don't seem remarkably different. It's not obvious why "sacred" was excluded, though from a modern secular-state viewpoint, it's probably welcome to many that such a nod to faith is not there.
 
-Replacing property with pursuit, though? This departure raises questions. Is happiness worth pursuing? Is it an end one should strive to attain? What is happiness, anyway?
+Replacing property with pursuit, though? This departure raises questions. Is happiness worth pursuing? Is it an end one should strive to attain? Is it a better and/or more self-evident truth than property? What is happiness, anyway?
 
 Ultimately, living a human life is something that doesn't come with a user's manual desribing what one should do to make the most of it. We're each left to our own devices to try to decide what constitutes living well.
 
-There are many who would say that society and culture lock us into expectations. They might say that wealth and status indicate success in our societies. Maybe they say offer instructions on how to acheive these things or maybe they assert that these expectations should be rejected. I've even heard it said that one should not necessarily seek success. This view holds that success is defined in money and status terms and that these are not worth seeking. It overlooks that success is subjective term and we are all free to define for ourselves what it means to be successful.
+There are many who would say that society and culture lock us into expectations. They might say that wealth and status indicate success in our societies. Maybe they offer instructions on how to acheive these things or maybe they assert that these expectations should be rejected. I've even heard it said that one should not necessarily seek success. This view holds that success is defined in money and status terms and that these are not worth seeking. It overlooks that success is subjective term and we are all free to define for ourselves what it means to be successful.
 
-The simple fact of the matter is that regardless of what someone else expects of you, whether someone specific like a parent or some facelss "society" or something of the sort, that may or may not expect what you think, your path through life is up to you.
+The simple fact of the matter is that others may have expectations of you. These others may be parents and other family, employers and managers, or this faceless thing some call "society". Maybe they have expectations and those expectations may or may not be in your best interestes. Regardless, you are not bound by those expectations.
+
+You are the one and the only one who can decide how you should live. This is both liberating and terrifying.
 
 What then, will you use as your guide to living a life worth the name?
 
