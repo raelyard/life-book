@@ -2,19 +2,23 @@
 
 ## A Life Worth Living
 
-It's hard to know what one should seek in life. To many, success is measured in wealth, status, position, and other such markers. To others, rewards come from family and other relationships. Others want to make an impact on future generations via work that leaves a legacy.
+It's hard to know what one should seek in life. To many, success is measured in wealth, status, position, and other such markers. To others, rewards come from family and other relationships. Still others want to make an impact on future generations via work that leaves a legacy.
 
-It's not common to stop and think about how one might decide among these differing views of success and what constitutes a life worth living. Generally, it seems most folks go to work for much of the day on most days and recover overnight to do it again. They find some time for recreation, and find themselves happy if they're lucky.
+It's not common to stop and think about how one might decide among these differing views of success and what constitutes a life worth living. Generally, it seems most folks go to work for much of the day on most days and recover overnight to do it again. They look forward to the weekend, seek out time for recreation, take an occassional vacation, and find themselves happy if they're lucky. It's generally pretty haphazard and aimless. Enjoying life to its fullest is simply a matter of chance.
 
-The words of the preamble to the Declaration of Independence of the United States of America, in outlining self-evident truths, articulate the "pursuit of happiness" as one of the inalienable rights. It's interesting to think about the fact that landing on the formulation most Americans can recite without thinking was not clearly where it was headed.
+The words of the preamble to the Declaration of Independence of the United States of America, in outlining self-evident truths, articulate the "pursuit of happiness" as one of the inalienable rights. It's interesting to think about the fact that landing on the formulation most Americans can recite without thinking was not where it started and not clearly where it was headed throughout the process of writing.
 
 > We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
 
-The "pursuit of happiness" deviation from the Lockean formulation of "life, liberty, and property" is interesting. Why was property excluded and why was this pursuit the replacement? Jefferson also originally wrote not that the truths articulated were "self-evident", but "sacred & undeniable."
+Jefferson clearly started with John Locke's formulation of fundamental rights including "life, liberty, and property". The replacemnt of property with "pursuit of happiness" is deviation from that. Why was property excluded and why was this pursuit the replacement? Jefferson also originally wrote not that the truths articulated were "self-evident", but "sacred & undeniable."
 
-"Self-evident" and "undeniable" don't seem remarkably different. It's not obvious why "sacred" was excluded, though from a modern secular-state viewpoint, it's probably welcome to many that such a nod to faith is not there.
+"Self-evident" and "undeniable" don't seem remarkably different. It's not obvious why "sacred" was excluded but from a modern secular-state viewpoint, it's probably welcome to many that such a nod to faith is not there.
 
 Replacing property with pursuit, though? This departure raises questions. Is happiness worth pursuing? Is it an end one should strive to attain? Is it a better and/or more self-evident truth than property? What is happiness, anyway?
+
+And what about property? Isn't it a fundamental right, also? Isn't this undeniable? Well, many would say property is not a right and that it's an evil, so I suppose it's not undeniable. i do intend to argue in this book that property is indeed a foundational good on which human thriving is built. I prefer Locke's list of what is included in the fundamental rights because I hold property to be of vital importance.
+
+Nonetheless, the replacement in the Declaration of Indepenence of the United States of America of property with pursuit leads to the important question of the nature of that final right therein included. What is this "pursuit of happiness" thing?
 
 Ultimately, living a human life is something that doesn't come with a user's manual desribing what one should do to make the most of it. We're each left to our own devices to try to decide what constitutes living well.
 
@@ -28,15 +32,19 @@ What then, will you use as your guide to living a life worth the name?
 
 ## Pursuit of Happiness?
 
-Without thinking about it, it seems that pursuing happiness makes sense. Everyone prefers happiness to unhappiness, at least ostensibly. It's hard to imagine someone explicitly saying they'd prefer to be unhappy.
+Without thinking about it, it seems that pursuing happiness makes sense. Everyone prefers happiness to unhappiness, at least ostensibly. It's hard to imagine someone explicitly saying they'd prefer to be unhappy. This means that indeed happiness is desirable.
 
 So happiness is desirable. That makes it something worth pursuing. It's likely for this reason Jefferson landed on the formulation he did.
 
 How do you puruse happiness, though?
 
-It seems a nonsensical question. Happiness is not an autonomous creature to follow or a destination to seek. It's not on a map and it doesn't move in ways that can be tracked.
+It seems a nonsensical question. Happiness is not a creature to follow or a destination to seek. It's not on a map and it doesn't move in ways that can be tracked.
 
 Pursuing happiness seems a matter of seeking it. It doesn't really seem something that can be sought, though. It doesn't seem something you can look for.
+
+Happiness is intangible. It can only be perceived with emotional perception. It can be lasting or fleeting. It's not only hard to think about how to pursue it, it's hard to answer whether you are happy or not.
+
+Pursuing happiness is a strange way to talk about what one might do in life.
 
 ## The Nature of Happiness
 
